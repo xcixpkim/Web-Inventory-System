@@ -38,7 +38,7 @@
 ## 설치 및 실행
 
 ### GitHub Pages
-https://xcixcode.github.io/Web-Inventory-System/
+https://xcixpkim.github.io/Web-Inventory-System/
 
 ### 로컬에서 실행
 1. 저장소를 클론하거나 `.zip`으로 다운로드합니다.  
